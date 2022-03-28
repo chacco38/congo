@@ -8,7 +8,7 @@ article:
     one: "{{ .Count }} min"
     other: "{{ .Count }} mins"
   reading_time_title: "Reading time"
-  table_of_contents: "Table of Contents"
+  table_of_contents: "目次"
   word_count:
     one: "{{ .Count }} word"
     other: "{{ .Count }} words"
